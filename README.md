@@ -42,6 +42,8 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 
 ## 📚 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
 
