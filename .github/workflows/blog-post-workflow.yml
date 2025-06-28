@@ -9,8 +9,12 @@ jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is required for actions/checkout and for committing the blog posts
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.virtualizationhowto.com/feed/"
