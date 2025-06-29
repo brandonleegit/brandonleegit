@@ -10,13 +10,14 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 
 ## 🚀 What I Do
 
+- **Content Creator** - Creating content on complext topics and explaining simply
 - **Infrastructure Automation** - Terraform, Ansible, PowerCLI
 - **Container Orchestration** - Kubernetes, Docker, Flux CD
 - **Cloud Platforms** - VMware, AWS, Azure
 - **CI/CD Pipelines** - GitHub Actions, GitLab CI
 - **Monitoring & Observability** - Prometheus, Grafana
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -47,15 +48,15 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 
 ## 🌱 Current Projects
 
-- **HomeLab Explorers** - Building and sharing home lab configurations for learning and experimentation
-- **VMware Helper Scripts** - Collection of automation scripts for VMware environments
+- [**HomeLab Explorers**](https://www.skool.com/homelabexplorers/about?ref=25f64c297b724689ae81c7dd30ba2c21) - Community for learning DevOps and sharing home lab configurations for learning and experimentation
+- [**VMware Helper Scripts**](https://github.com/brandonleegit/vmware-helper-scripts) - Collection of automation scripts for VMware environments
 - **Kubernetes GitOps** - Implementing GitOps workflows with Flux CD
 
 ## 📫 How to Reach Me
 
 - 💬 [Twitter](https://twitter.com/vspinmaster)
 - 👔 [LinkedIn](https://www.linkedin.com/in/brandon-lee-vht/)
-- 🌐 [Personal Website](https://www.virtualizationhowto.com)
+- 🌐 [VirtualizationHowto (My blog)](https://www.virtualizationhowto.com)
 
 ## 🤝 Let's Connect
 
