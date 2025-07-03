@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Brandon Lee
 
 [![Twitter](https://img.shields.io/twitter/follow/brandonlee?style=social)](https://twitter.com/vspinmaster)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/brandonlee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/brandon-lee-vht/)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.virtualizationhowto.com)
 
 ## 💼 DevOps Engineer & Cloud Architect
