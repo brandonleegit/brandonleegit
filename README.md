@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Killer AI Projects You Can Try in a Weekend](https://www.virtualizationhowto.com/2025/07/5-killer-ai-projects-you-can-try-in-a-weekend/)
 - [The Great VMware Exodus, Real Migration Stories and Alternatives for 2025](https://www.virtualizationhowto.com/2025/07/the-great-vmware-exodus-real-migration-stories-and-alternatives-for-2025/)
 - [Install Google Gemini CLI in Windows for AI Command Line!](https://www.virtualizationhowto.com/2025/06/install-google-gemini-cli-in-windows-for-ai-command-line/)
 - [My Favorite Home Lab Tools in 2025 &lpar;So Far&rpar;: Projects I Keep Coming Back To](https://www.virtualizationhowto.com/2025/06/my-favorite-home-lab-tools-in-2025-so-far-projects-i-keep-coming-back-to/)
 - [Freelens is an Open Source and Free Kubernetes IDE for 2025!](https://www.virtualizationhowto.com/2025/06/freelens-is-an-open-source-and-free-kubernetes-ide-for-2025/)
-- [Aoostar WTR Max Review: The Almost Perfect NAS Mini PC](https://www.virtualizationhowto.com/2025/06/aoostar-wtr-max-review-the-almost-perfect-nas-mini-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
