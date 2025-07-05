@@ -15,7 +15,7 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 - **Container Orchestration** - Kubernetes, Docker, Flux CD
 - **Cloud Platforms** - VMware, AWS, Azure
 - **CI/CD Pipelines** - GitHub Actions, GitLab CI
-- **Monitoring & Observability** - Prometheus, Grafana
+- **Monitoring & Observability** - Prometheus, Grafana, InfluxDB, Chronograf, Kapacitor
 
 ## 🛠️ My Tech Stack
 
