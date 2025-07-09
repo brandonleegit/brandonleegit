@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Docker Labels and Compose Tricks to Organize 75+ Containers](https://www.virtualizationhowto.com/2025/07/how-i-use-docker-labels-and-compose-tricks-to-organize-75-containers/)
 - [How I Use VLANs to Isolate Docker and Proxmox Services &lpar;+ Free Worksheet&rpar;](https://www.virtualizationhowto.com/2025/07/how-i-use-vlans-to-isolate-docker-and-proxmox-services-free-worksheet/)
 - [Wireshark 101: The 2025 Beginner’s Guide](https://www.virtualizationhowto.com/2025/07/wireshark-101-the-2025-beginners-guide/)
 - [5 Killer AI Projects You Can Try in a Weekend](https://www.virtualizationhowto.com/2025/07/5-killer-ai-projects-you-can-try-in-a-weekend/)
 - [The Great VMware Exodus, Real Migration Stories and Alternatives for 2025](https://www.virtualizationhowto.com/2025/07/the-great-vmware-exodus-real-migration-stories-and-alternatives-for-2025/)
-- [Install Google Gemini CLI in Windows for AI Command Line!](https://www.virtualizationhowto.com/2025/06/install-google-gemini-cli-in-windows-for-ai-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
