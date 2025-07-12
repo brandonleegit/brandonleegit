@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [High-Availability &lpar;HA&rpar; Proxmox Clusters: Do’s &amp; Don’ts](https://www.virtualizationhowto.com/2025/07/high-availability-ha-proxmox-clusters-dos-donts/)
 - [Proxmox Networking Best Practices for Home Labs and Downloadable Cheat Sheet!](https://www.virtualizationhowto.com/2025/07/proxmox-networking-best-practices-for-home-labs-and-downloadable-cheat-sheet/)
 - [Docker Security Tips for Container Hosts &amp; Ansible Playbook](https://www.virtualizationhowto.com/2025/07/docker-security-tips-for-container-hosts-ansible-playbook/)
 - [How I Use Docker Labels and Compose Tricks to Organize 75+ Containers](https://www.virtualizationhowto.com/2025/07/how-i-use-docker-labels-and-compose-tricks-to-organize-75-containers/)
 - [How I Use VLANs to Isolate Docker and Proxmox Services &lpar;+ Free Worksheet&rpar;](https://www.virtualizationhowto.com/2025/07/how-i-use-vlans-to-isolate-docker-and-proxmox-services-free-worksheet/)
-- [Wireshark 101: The 2025 Beginner’s Guide](https://www.virtualizationhowto.com/2025/07/wireshark-101-the-2025-beginners-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
