@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Home Lab with n8n Workflow Automation and AI](https://www.virtualizationhowto.com/2025/07/automate-your-home-lab-with-n8n-workflow-automation-and-ai/)
 - [15 Weekend-Ready Ansible Playbooks for Your Home Lab](https://www.virtualizationhowto.com/2025/07/15-weekend-ready-ansible-playbooks-for-your-home-lab/)
 - [Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs](https://www.virtualizationhowto.com/2025/07/docker-networking-tutorial-bridge-vs-macvlan-vs-overlay-for-home-labs/)
 - [Run Your Home Lab with Infrastructure as Code Like a Boss](https://www.virtualizationhowto.com/2025/07/run-your-home-lab-with-infrastructure-as-code-like-a-boss/)
 - [Amazon Kiro AI IDE Released in Preview Download it Now!](https://www.virtualizationhowto.com/2025/07/amazon-kiro-ai-ide-released-in-preview-download-it-now/)
-- [Ansible Semaphore UI: My New Go-To Infrastructure Automation Tool](https://www.virtualizationhowto.com/2025/07/ansible-semaphore-ui-my-new-go-to-infrastructure-automation-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
