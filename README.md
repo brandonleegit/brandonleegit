@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Lab Chaos Engineering Unleashed with LitmusChaos](https://www.virtualizationhowto.com/2025/07/home-lab-chaos-engineering-unleashed-with-litmuschaos/)
 - [5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow](https://www.virtualizationhowto.com/2025/07/5-must-have-coding-tools-to-supercharge-your-home-lab-workflow/)
 - [Home Assistant Docker Compose Design Decisions: Networking, Storage, Backups](https://www.virtualizationhowto.com/2025/07/home-assistant-docker-compose-design-decisions-networking-storage-backups/)
 - [Automate Your Home Lab with n8n Workflow Automation and AI](https://www.virtualizationhowto.com/2025/07/automate-your-home-lab-with-n8n-workflow-automation-and-ai/)
 - [15 Weekend-Ready Ansible Playbooks for Your Home Lab](https://www.virtualizationhowto.com/2025/07/15-weekend-ready-ansible-playbooks-for-your-home-lab/)
-- [Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs](https://www.virtualizationhowto.com/2025/07/docker-networking-tutorial-bridge-vs-macvlan-vs-overlay-for-home-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
