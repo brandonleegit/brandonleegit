@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Home Lab in Hours Not Days with Kestra!](https://www.virtualizationhowto.com/2025/07/automate-your-home-lab-in-hours-not-days-with-kestra/)
 - [Proxmox Backup Server 4.0 Beta Released – Try the New Features Today!](https://www.virtualizationhowto.com/2025/07/proxmox-backup-server-4-0-beta-released-try-the-new-features-today/)
 - [Proxmox VE 9 Beta Is Here: All the New Features You Need to Know](https://www.virtualizationhowto.com/2025/07/proxmox-ve-9-beta-is-here-all-the-new-features-you-need-to-know/)
 - [5 Proxmox Projects to Level Up Your Home Lab This Weekend](https://www.virtualizationhowto.com/2025/07/5-proxmox-projects-to-level-up-your-home-lab-this-weekend/)
 - [Home Lab Chaos Engineering Unleashed with LitmusChaos](https://www.virtualizationhowto.com/2025/07/home-lab-chaos-engineering-unleashed-with-litmuschaos/)
-- [5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow](https://www.virtualizationhowto.com/2025/07/5-must-have-coding-tools-to-supercharge-your-home-lab-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
