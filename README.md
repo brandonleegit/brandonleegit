@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Secure Networking Projects for Your Home Lab This Weekend!](https://www.virtualizationhowto.com/2025/08/5-secure-networking-projects-for-your-home-lab-this-weekend/)
 - [Proxmox VE 9’s New Mobile Web UI: Manage Your Cluster from Anywhere](https://www.virtualizationhowto.com/2025/08/proxmox-ve-9s-new-mobile-web-ui-manage-your-cluster-from-anywhere/)
 - [12 Essential Steps I Take on Every New Docker Host](https://www.virtualizationhowto.com/2025/08/12-essential-steps-i-take-on-every-new-docker-host/)
 - [Instant VMs and LXCs on Proxmox: My Go-To Terraform Templates for Quick Deployments](https://www.virtualizationhowto.com/2025/08/instant-vms-and-lxcs-on-proxmox-my-go-to-terraform-templates-for-quick-deployments/)
 - [New UniFi OS Server Lets You Self-Host the Full UniFi Experience](https://www.virtualizationhowto.com/2025/08/new-unifi-os-server-lets-you-self-host-the-full-unifi-experience/)
-- [10 Docker Projects You Can Build in a Weekend and Actually Use!](https://www.virtualizationhowto.com/2025/08/10-docker-projects-you-can-build-in-a-weekend-and-actually-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
