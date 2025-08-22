@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Security Hardening Steps for Proxmox VE 9](https://www.virtualizationhowto.com/2025/08/top-security-hardening-steps-for-proxmox-ve-9/)
 - [How to Totally Control DNS in Your Home Lab](https://www.virtualizationhowto.com/2025/08/how-to-totally-control-dns-in-your-home-lab/)
 - [7 Ways to Make Your Home Lab More Resilient to Power Outages](https://www.virtualizationhowto.com/2025/08/7-ways-to-make-your-home-lab-more-resilient-to-power-outages/)
 - [10 Open-Source AI Models You Should Try In Your Home Lab &lpar;August 2025&rpar;](https://www.virtualizationhowto.com/2025/08/10-open-source-ai-models-you-should-try-in-your-home-lab-august-2025/)
 - [8 Virtual Machine Projects You Need to Build This Weekend!](https://www.virtualizationhowto.com/2025/08/8-virtual-machine-projects-you-need-to-build-this-weekend/)
-- [Docker Compose Tricks I Wish I Knew Sooner](https://www.virtualizationhowto.com/2025/08/docker-compose-tricks-i-wish-i-knew-sooner/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
