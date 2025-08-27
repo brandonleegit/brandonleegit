@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025](https://www.virtualizationhowto.com/2025/08/vault-vs-doppler-vs-sealed-secrets-automating-home-lab-secrets-in-2025/)
 - [Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More!](https://www.virtualizationhowto.com/2025/08/portainer-2-33-lts-released-with-alerting-new-look-helm-overhaul-and-more/)
 - [5 Storage Projects to Supercharge Your Home Lab This Weekend](https://www.virtualizationhowto.com/2025/08/5-storage-projects-to-supercharge-your-home-lab-this-weekend/)
 - [Top Security Hardening Steps for Proxmox VE 9](https://www.virtualizationhowto.com/2025/08/top-security-hardening-steps-for-proxmox-ve-9/)
 - [How to Totally Control DNS in Your Home Lab](https://www.virtualizationhowto.com/2025/08/how-to-totally-control-dns-in-your-home-lab/)
-- [7 Ways to Make Your Home Lab More Resilient to Power Outages](https://www.virtualizationhowto.com/2025/08/7-ways-to-make-your-home-lab-more-resilient-to-power-outages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
