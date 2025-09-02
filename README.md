@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything](https://www.virtualizationhowto.com/2025/09/i-replaced-nginx-proxy-manager-with-traefik-in-my-home-lab-and-it-changed-everything/)
 - [Visualize Your Docker-Compose with Mermaid + docker-compose-viz This Weekend](https://www.virtualizationhowto.com/2025/08/visualize-your-docker-compose-with-mermaid-docker-compose-viz-this-weekend/)
 - [How to Install Talos Omni On-Prem for Effortless Kubernetes Management](https://www.virtualizationhowto.com/2025/08/how-to-install-talos-omni-on-prem-for-effortless-kubernetes-management/)
 - [Top Home lab Networking Mistakes to Avoid in 2025](https://www.virtualizationhowto.com/2025/08/top-home-lab-networking-mistakes-to-avoid-in-2025/)
 - [Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025](https://www.virtualizationhowto.com/2025/08/vault-vs-doppler-vs-sealed-secrets-automating-home-lab-secrets-in-2025/)
-- [Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More!](https://www.virtualizationhowto.com/2025/08/portainer-2-33-lts-released-with-alerting-new-look-helm-overhaul-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
