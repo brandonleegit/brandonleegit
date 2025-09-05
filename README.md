@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Traefik Plugins for Home Lab and Production &lpar;My Top Picks&rpar;](https://www.virtualizationhowto.com/2025/09/best-traefik-plugins-for-home-lab-and-production-my-top-picks/)
 - [I Added Authentik SSO to My Home Lab with Docker-Compose: Logging In Will Never Be the Same](https://www.virtualizationhowto.com/2025/09/i-added-authentik-sso-to-my-home-lab-with-docker-compose-logging-in-will-never-be-the-same/)
 - [TerraMaster D1 SSD Plus Review: Blazing Fast Storage for Creators and Home Labs](https://www.virtualizationhowto.com/2025/09/terramaster-d1-ssd-plus-review-blazing-fast-storage-for-creators-and-home-labs/)
 - [I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything](https://www.virtualizationhowto.com/2025/09/i-replaced-nginx-proxy-manager-with-traefik-in-my-home-lab-and-it-changed-everything/)
 - [Visualize Your Docker-Compose with Mermaid + docker-compose-viz This Weekend](https://www.virtualizationhowto.com/2025/08/visualize-your-docker-compose-with-mermaid-docker-compose-viz-this-weekend/)
-- [How to Install Talos Omni On-Prem for Effortless Kubernetes Management](https://www.virtualizationhowto.com/2025/08/how-to-install-talos-omni-on-prem-for-effortless-kubernetes-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
