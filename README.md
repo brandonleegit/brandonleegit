@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using .env Files: Docker Secrets Made Easy with Doppler](https://www.virtualizationhowto.com/2025/09/stop-using-env-files-docker-secrets-made-easy-with-doppler/)
 - [NPUs in Mini PCs are Worthless for a Home Lab, Here’s Why](https://www.virtualizationhowto.com/2025/09/npus-in-mini-pcs-are-worthless-for-a-home-lab-heres-why/)
 - [Why You Should Be Vibe Coding in Your Home Lab Right Now!](https://www.virtualizationhowto.com/2025/09/why-you-should-be-vibe-coding-in-your-home-lab-right-now/)
 - [10 Home Lab Mistakes I Made &lpar;So You Don’t Have To&rpar;](https://www.virtualizationhowto.com/2025/09/10-home-lab-mistakes-i-made-so-you-dont-have-to/)
 - [Best Traefik Plugins for Home Lab and Production &lpar;My Top Picks&rpar;](https://www.virtualizationhowto.com/2025/09/best-traefik-plugins-for-home-lab-and-production-my-top-picks/)
-- [I Added Authentik SSO to My Home Lab with Docker-Compose: Logging In Will Never Be the Same](https://www.virtualizationhowto.com/2025/09/i-added-authentik-sso-to-my-home-lab-with-docker-compose-logging-in-will-never-be-the-same/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
