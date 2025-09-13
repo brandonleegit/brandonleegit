@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Really Need a Full-Sized Rack for Your Home Lab in 2025?](https://www.virtualizationhowto.com/2025/09/do-you-really-need-a-full-sized-rack-for-your-home-lab-in-2025/)
 - [Spanning Tree Sucks, Long Live Spanning Tree!](https://www.virtualizationhowto.com/2025/09/spanning-tree-sucks-long-live-spanning-tree/)
 - [Stop Using .env Files: Docker Secrets Made Easy with Doppler](https://www.virtualizationhowto.com/2025/09/stop-using-env-files-docker-secrets-made-easy-with-doppler/)
 - [NPUs in Mini PCs are Worthless for a Home Lab, Here’s Why](https://www.virtualizationhowto.com/2025/09/npus-in-mini-pcs-are-worthless-for-a-home-lab-heres-why/)
 - [Why You Should Be Vibe Coding in Your Home Lab Right Now!](https://www.virtualizationhowto.com/2025/09/why-you-should-be-vibe-coding-in-your-home-lab-right-now/)
-- [10 Home Lab Mistakes I Made &lpar;So You Don’t Have To&rpar;](https://www.virtualizationhowto.com/2025/09/10-home-lab-mistakes-i-made-so-you-dont-have-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
