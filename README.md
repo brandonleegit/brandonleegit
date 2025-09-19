@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox Enhanced Configuration Utility &lpar;PECU&rpar;: The Ultimate Proxmox VE GPU Toolkit for 2025](https://www.virtualizationhowto.com/2025/09/proxmox-enhanced-configuration-utility-pecu-the-ultimate-proxmox-ve-gpu-toolkit-for-2025/)
 - [Why Talos Omni Kubernetes Has Changed My Home Lab](https://www.virtualizationhowto.com/2025/09/why-talos-omni-kubernetes-has-changed-my-home-lab/)
 - [Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab](https://www.virtualizationhowto.com/2025/09/caddy-reverse-proxy-in-2025-the-simplest-docker-setup-for-your-home-lab/)
 - [Best 5 Docker Container Operating Systems in 2025 &lpar;Home Lab &amp; Enterprise Picks&rpar;](https://www.virtualizationhowto.com/2025/09/best-5-docker-container-operating-systems-in-2025-home-lab-enterprise-picks/)
 - [Do You Really Need a Full-Sized Rack for Your Home Lab in 2025?](https://www.virtualizationhowto.com/2025/09/do-you-really-need-a-full-sized-rack-for-your-home-lab-in-2025/)
-- [Spanning Tree Sucks, Long Live Spanning Tree!](https://www.virtualizationhowto.com/2025/09/spanning-tree-sucks-long-live-spanning-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
