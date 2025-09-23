@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 25H2 ISOs and Enablement Package Download Released Ahead of Launch](https://www.virtualizationhowto.com/2025/09/windows-11-25h2-isos-and-enablement-package-download-released-ahead-of-launch/)
+- [Why Your Mini PC’s NVMe Drive Isn’t as Fast as You Think](https://www.virtualizationhowto.com/2025/09/why-your-mini-pcs-nvme-drive-isnt-as-fast-as-you-think/)
 - [The First Services I Always Spin Up in Any Home Lab](https://www.virtualizationhowto.com/2025/09/the-first-services-i-always-spin-up-in-any-home-lab/)
 - [Proxmox Enhanced Configuration Utility &lpar;PECU&rpar;: The Ultimate Proxmox VE GPU Toolkit for 2025](https://www.virtualizationhowto.com/2025/09/proxmox-enhanced-configuration-utility-pecu-the-ultimate-proxmox-ve-gpu-toolkit-for-2025/)
 - [Why Talos Omni Kubernetes Has Changed My Home Lab](https://www.virtualizationhowto.com/2025/09/why-talos-omni-kubernetes-has-changed-my-home-lab/)
-- [Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab](https://www.virtualizationhowto.com/2025/09/caddy-reverse-proxy-in-2025-the-simplest-docker-setup-for-your-home-lab/)
-- [Best 5 Docker Container Operating Systems in 2025 &lpar;Home Lab &amp; Enterprise Picks&rpar;](https://www.virtualizationhowto.com/2025/09/best-5-docker-container-operating-systems-in-2025-home-lab-enterprise-picks/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
