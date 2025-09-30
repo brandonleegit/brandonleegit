@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Pangolin is the one reverse proxy I’d pick if I was starting my home lab today](https://www.virtualizationhowto.com/2025/09/why-pangolin-is-the-one-reverse-proxy-id-pick-if-i-was-starting-my-home-lab-today/)
 - [The First Hardware I Always Buy for Any Home Lab](https://www.virtualizationhowto.com/2025/09/the-first-hardware-i-always-buy-for-any-home-lab/)
 - [Nginx Proxy Manager vs NPMplus Which One is Better for Your Home Lab?](https://www.virtualizationhowto.com/2025/09/nginx-proxy-manager-vs-npmplus-which-one-is-better-for-your-home-lab/)
 - [Best Docker containers for Docker Desktop in 2025](https://www.virtualizationhowto.com/2025/09/best-docker-containers-for-docker-desktop-in-2025/)
 - [5 Things You Should Know About OPNsense Before You Install It](https://www.virtualizationhowto.com/2025/09/5-things-you-should-know-about-opnsense-before-you-install-it/)
-- [Windows 11 25H2 ISOs and Enablement Package Download Released Ahead of Launch](https://www.virtualizationhowto.com/2025/09/windows-11-25h2-isos-and-enablement-package-download-released-ahead-of-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
