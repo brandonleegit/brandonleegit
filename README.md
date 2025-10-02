@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I run multiple DNS servers in my home lab &lpar;and you should too&rpar;](https://www.virtualizationhowto.com/2025/10/why-i-run-multiple-dns-servers-in-my-home-lab-and-you-should-too/)
 - [MINIX Elite EU715-AI Review The Mini PC Designed for AI and Home Labs](https://www.virtualizationhowto.com/2025/09/minix-elite-eu715-ai-review-the-mini-pc-designed-for-ai-and-home-labs/)
 - [Why Pangolin is the one reverse proxy I’d pick if I was starting my home lab today](https://www.virtualizationhowto.com/2025/09/why-pangolin-is-the-one-reverse-proxy-id-pick-if-i-was-starting-my-home-lab-today/)
 - [The First Hardware I Always Buy for Any Home Lab](https://www.virtualizationhowto.com/2025/09/the-first-hardware-i-always-buy-for-any-home-lab/)
 - [Nginx Proxy Manager vs NPMplus Which One is Better for Your Home Lab?](https://www.virtualizationhowto.com/2025/09/nginx-proxy-manager-vs-npmplus-which-one-is-better-for-your-home-lab/)
-- [Best Docker containers for Docker Desktop in 2025](https://www.virtualizationhowto.com/2025/09/best-docker-containers-for-docker-desktop-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
