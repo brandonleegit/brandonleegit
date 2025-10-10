@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Lightweight Linux Distros for Home Server](https://www.virtualizationhowto.com/2025/10/best-lightweight-linux-distros-for-home-server/)
 - [Home Lab Networking 101: VLANs, Subnets, and Segmentation for Beginners](https://www.virtualizationhowto.com/2025/10/home-lab-networking-101-vlans-subnets-and-segmentation-for-beginners/)
 - [How to Run Docker on Proxmox the Right Way &lpar;and Avoid Common Mistakes&rpar;](https://www.virtualizationhowto.com/2025/10/how-to-run-docker-on-proxmox-the-right-way-and-avoid-common-mistakes/)
 - [Ultimate Home Lab Backup Strategy &lpar;2025 Edition&rpar;](https://www.virtualizationhowto.com/2025/10/ultimate-home-lab-backup-strategy-2025-edition/)
 - [The 5 Home Lab Upgrades that Changed Everything for Me](https://www.virtualizationhowto.com/2025/10/the-5-home-lab-upgrades-that-changed-everything-for-me/)
-- [The OPNsense Plugin You Must Install in 2025: Zenarmor Guide &amp; Review](https://www.virtualizationhowto.com/2025/10/the-opnsense-plugin-you-must-install-in-2025-zenarmor-guide-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
