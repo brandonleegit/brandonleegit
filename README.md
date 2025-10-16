@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Self-Healing Home Lab That Fixes Itself](https://www.virtualizationhowto.com/2025/10/how-i-built-a-self-healing-home-lab-that-fixes-itself/)
 - [TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS](https://www.virtualizationhowto.com/2025/10/truenas-connect-open-beta-just-dropped-and-its-a-game-changer-for-home-and-enterprise-nas/)
 - [This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed](https://www.virtualizationhowto.com/2025/10/this-free-tool-gives-proxmox-the-monitoring-dashboard-it-always-needed/)
 - [Weekend Home Lab Challenges to Level Up Your Skills](https://www.virtualizationhowto.com/2025/10/weekend-home-lab-challenges-to-level-up-your-skills/)
 - [Best Lightweight Linux Distros for Home Server](https://www.virtualizationhowto.com/2025/10/best-lightweight-linux-distros-for-home-server/)
-- [Home Lab Networking 101: VLANs, Subnets, and Segmentation for Beginners](https://www.virtualizationhowto.com/2025/10/home-lab-networking-101-vlans-subnets-and-segmentation-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
