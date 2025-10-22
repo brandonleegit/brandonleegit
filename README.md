@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Need an Immutable Home Lab Server OS](https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/)
 - [Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking](https://www.virtualizationhowto.com/2025/10/minisforum-ms-02-ultra-has-insane-home-lab-potential-with-256gb-ram-triple-pcie-and-25gb-networking/)
 - [How I Keep My Home Lab Safe While Experimenting with New Tools](https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/)
 - [Best Terraform Modules for Home Labs in 2025](https://www.virtualizationhowto.com/2025/10/best-terraform-modules-for-home-labs-in-2025/)
 - [How I Built a Self-Healing Home Lab That Fixes Itself](https://www.virtualizationhowto.com/2025/10/how-i-built-a-self-healing-home-lab-that-fixes-itself/)
-- [TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS](https://www.virtualizationhowto.com/2025/10/truenas-connect-open-beta-just-dropped-and-its-a-game-changer-for-home-and-enterprise-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
