@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab](https://www.virtualizationhowto.com/2025/10/best-self-hosted-ai-tools-you-can-actually-run-in-your-home-lab/)
 - [Why You Need an Immutable Home Lab Server OS](https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/)
 - [Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking](https://www.virtualizationhowto.com/2025/10/minisforum-ms-02-ultra-has-insane-home-lab-potential-with-256gb-ram-triple-pcie-and-25gb-networking/)
 - [How I Keep My Home Lab Safe While Experimenting with New Tools](https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/)
 - [Best Terraform Modules for Home Labs in 2025](https://www.virtualizationhowto.com/2025/10/best-terraform-modules-for-home-labs-in-2025/)
-- [How I Built a Self-Healing Home Lab That Fixes Itself](https://www.virtualizationhowto.com/2025/10/how-i-built-a-self-healing-home-lab-that-fixes-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
