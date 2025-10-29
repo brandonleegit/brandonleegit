@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Run GPU-Enabled Containers in Your Home Lab](https://www.virtualizationhowto.com/2025/10/how-to-run-gpu-enabled-containers-in-your-home-lab/)
 - [LogForge is the Must-Have Self-Hosted Docker Dashboard for Logs and Alerts](https://www.virtualizationhowto.com/2025/10/logforge-is-the-must-have-self-hosted-docker-dashboard-for-logs-and-alerts/)
 - [Top 10 Automation Scripts Every Home Lab Should Have in 2025](https://www.virtualizationhowto.com/2025/10/top-10-automation-scripts-every-home-lab-should-have-in-2025/)
 - [Proxmox Cloud-Init Made Easy: Automating VM Provisioning Like the Cloud](https://www.virtualizationhowto.com/2025/10/proxmox-cloud-init-made-easy-automating-vm-provisioning-like-the-cloud/)
 - [Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab](https://www.virtualizationhowto.com/2025/10/best-self-hosted-ai-tools-you-can-actually-run-in-your-home-lab/)
-- [Why You Need an Immutable Home Lab Server OS](https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
