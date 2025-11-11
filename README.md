@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Docker Containers That Make Your Home Lab Instantly Better](https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/)
 - [Smokeping is the Simple Way to Monitor Pings in Your Home Lab](https://www.virtualizationhowto.com/2025/11/smokeping-is-the-simple-way-to-monitor-pings-in-your-home-lab/)
 - [Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers](https://www.virtualizationhowto.com/2025/11/meet-proxmenux-monitor-the-new-way-to-monitor-proxmox-servers/)
 - [10 Things You Should Back Up in Your Home Lab &lpar;But Probably Don’t&rpar;](https://www.virtualizationhowto.com/2025/11/10-things-you-should-back-up-in-your-home-lab-but-probably-dont/)
 - [5 Signs It’s Time to Upgrade Your Home Lab Hardware](https://www.virtualizationhowto.com/2025/11/5-signs-its-time-to-upgrade-your-home-lab-hardware/)
-- [Why I Switched to Zabbix for Monitoring My Docker Containers](https://www.virtualizationhowto.com/2025/11/why-i-switched-to-zabbix-for-monitoring-my-docker-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
