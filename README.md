@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NixOS is the Best Home Lab OS You Haven’t Tried Yet](https://www.virtualizationhowto.com/2025/11/nixos-is-the-best-home-lab-os-you-havent-tried-yet/)
 - [15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier](https://www.virtualizationhowto.com/2025/11/15-best-proxmox-tools-and-scripts-that-make-your-home-lab-easier/)
 - [15 Docker Containers That Make Your Home Lab Instantly Better](https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/)
 - [Smokeping is the Simple Way to Monitor Pings in Your Home Lab](https://www.virtualizationhowto.com/2025/11/smokeping-is-the-simple-way-to-monitor-pings-in-your-home-lab/)
 - [Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers](https://www.virtualizationhowto.com/2025/11/meet-proxmenux-monitor-the-new-way-to-monitor-proxmox-servers/)
-- [10 Things You Should Back Up in Your Home Lab &lpar;But Probably Don’t&rpar;](https://www.virtualizationhowto.com/2025/11/10-things-you-should-back-up-in-your-home-lab-but-probably-dont/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
