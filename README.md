@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This New Tool Lets You Manage Proxmox Entirely from Your Terminal](https://www.virtualizationhowto.com/2025/11/this-new-tool-lets-you-manage-proxmox-entirely-from-your-terminal/)
 - [NixOS is the Best Home Lab OS You Haven’t Tried Yet](https://www.virtualizationhowto.com/2025/11/nixos-is-the-best-home-lab-os-you-havent-tried-yet/)
 - [15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier](https://www.virtualizationhowto.com/2025/11/15-best-proxmox-tools-and-scripts-that-make-your-home-lab-easier/)
 - [15 Docker Containers That Make Your Home Lab Instantly Better](https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/)
 - [Smokeping is the Simple Way to Monitor Pings in Your Home Lab](https://www.virtualizationhowto.com/2025/11/smokeping-is-the-simple-way-to-monitor-pings-in-your-home-lab/)
-- [Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers](https://www.virtualizationhowto.com/2025/11/meet-proxmenux-monitor-the-new-way-to-monitor-proxmox-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
