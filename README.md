@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love](https://www.virtualizationhowto.com/2025/11/cachy-linux-is-the-fast-new-linux-distro-your-home-lab-will-love/)
 - [10 Linux Networking Commands Every Home Lab Admin Should Know in 2025](https://www.virtualizationhowto.com/2025/11/10-linux-networking-commands-every-home-lab-admin-should-know-in-2025/)
 - [Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal](https://www.virtualizationhowto.com/2025/11/lazy-docker-is-the-easiest-way-to-manage-home-lab-containers-from-your-terminal/)
 - [10 Best Terminal Tools for Home Labs in 2025](https://www.virtualizationhowto.com/2025/11/10-best-terminal-tools-for-home-labs-in-2025/)
 - [This New Tool Lets You Manage Proxmox Entirely from Your Terminal](https://www.virtualizationhowto.com/2025/11/this-new-tool-lets-you-manage-proxmox-entirely-from-your-terminal/)
-- [NixOS is the Best Home Lab OS You Haven’t Tried Yet](https://www.virtualizationhowto.com/2025/11/nixos-is-the-best-home-lab-os-you-havent-tried-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
