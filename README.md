@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to Proxmox Containers in 2025: Docker VMs, LXC, and New OCI Support](https://www.virtualizationhowto.com/2025/11/complete-guide-to-proxmox-containers-in-2025-docker-vms-lxc-and-new-oci-support/)
 - [15 Troubleshooting Commands Every Linux Home Lab Admin Should Know](https://www.virtualizationhowto.com/2025/11/15-troubleshooting-commands-every-linux-home-lab-admin-should-know/)
 - [Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades](https://www.virtualizationhowto.com/2025/11/proxmox-ve-9-1-launches-with-oci-image-support-vtpm-snapshots-and-big-sdn-upgrades/)
 - [Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love](https://www.virtualizationhowto.com/2025/11/cachy-linux-is-the-fast-new-linux-distro-your-home-lab-will-love/)
 - [10 Linux Networking Commands Every Home Lab Admin Should Know in 2025](https://www.virtualizationhowto.com/2025/11/10-linux-networking-commands-every-home-lab-admin-should-know-in-2025/)
-- [Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal](https://www.virtualizationhowto.com/2025/11/lazy-docker-is-the-easiest-way-to-manage-home-lab-containers-from-your-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
