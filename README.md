@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Mini PCs for Home Labs in 2025 &lpar;Ranked by Real Performance&rpar;](https://www.virtualizationhowto.com/2025/11/the-best-mini-pcs-for-home-labs-in-2025-ranked-by-real-performance/)
 - [What’s Up Docker Keeps Your Home Lab Containers Updated Automatically](https://www.virtualizationhowto.com/2025/11/whats-up-docker-keeps-your-home-lab-containers-updated-automatically/)
 - [IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025](https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/)
 - [Complete Guide to Proxmox Containers in 2025: Docker VMs, LXC, and New OCI Support](https://www.virtualizationhowto.com/2025/11/complete-guide-to-proxmox-containers-in-2025-docker-vms-lxc-and-new-oci-support/)
 - [15 Troubleshooting Commands Every Linux Home Lab Admin Should Know](https://www.virtualizationhowto.com/2025/11/15-troubleshooting-commands-every-linux-home-lab-admin-should-know/)
-- [Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades](https://www.virtualizationhowto.com/2025/11/proxmox-ve-9-1-launches-with-oci-image-support-vtpm-snapshots-and-big-sdn-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
