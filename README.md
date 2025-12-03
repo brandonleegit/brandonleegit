@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025](https://www.virtualizationhowto.com/2025/12/logward-is-the-lightweight-syslog-server-every-home-lab-needs-in-2025/)
 - [2025 Home Lab Network Upgrades Every Home Lab Needs](https://www.virtualizationhowto.com/2025/12/2025-home-lab-network-upgrades-every-home-lab-needs/)
 - [Increase Usable RAM In Your Home Lab Without Buying More Memory](https://www.virtualizationhowto.com/2025/11/increase-usable-ram-in-your-home-lab-without-buying-more-memory/)
 - [The Best Mini PCs for Home Labs in 2025 &lpar;Ranked by Real Performance&rpar;](https://www.virtualizationhowto.com/2025/11/the-best-mini-pcs-for-home-labs-in-2025-ranked-by-real-performance/)
 - [What’s Up Docker Keeps Your Home Lab Containers Updated Automatically](https://www.virtualizationhowto.com/2025/11/whats-up-docker-keeps-your-home-lab-containers-updated-automatically/)
-- [IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025](https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
