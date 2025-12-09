@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has RAM Pricing Just Made Used Enterprise Servers the Better Home Lab Deal?](https://www.virtualizationhowto.com/2025/12/has-ram-pricing-just-made-used-enterprise-servers-the-better-home-lab-deal/)
 - [Proxmox Datacenter Manager Just Went GA and It Changes Everything](https://www.virtualizationhowto.com/2025/12/proxmox-datacenter-manager-just-went-ga-and-it-changes-everything/)
 - [Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking](https://www.virtualizationhowto.com/2025/12/beelink-ser9-max-review-major-platform-upgrades-and-real-10-gig-networking/)
 - [12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig](https://www.virtualizationhowto.com/2025/12/12-things-i-wish-i-knew-before-upgrading-my-home-lab-to-10-gig/)
 - [Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025](https://www.virtualizationhowto.com/2025/12/logward-is-the-lightweight-syslog-server-every-home-lab-needs-in-2025/)
-- [2025 Home Lab Network Upgrades Every Home Lab Needs](https://www.virtualizationhowto.com/2025/12/2025-home-lab-network-upgrades-every-home-lab-needs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
