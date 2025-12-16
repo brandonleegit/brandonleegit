@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab](https://www.virtualizationhowto.com/2025/12/patchmon-is-the-linux-update-gui-ive-been-wanting-for-my-home-lab/)
 - [Ultimate Home Lab Starter Stack for 2026 &lpar;Key Recommendations&rpar;](https://www.virtualizationhowto.com/2025/12/ultimate-home-lab-starter-stack-for-2026-key-recommendations/)
 - [Do You Really Need Wi-Fi 7 in Your Home Lab in 2025?](https://www.virtualizationhowto.com/2025/12/do-you-really-need-wi-fi-7-in-your-home-lab-in-2025/)
 - [Why Containers Will Be More Important Than Ever in the 2026 Home Lab](https://www.virtualizationhowto.com/2025/12/why-containers-will-be-more-important-than-ever-in-the-2026-home-lab/)
 - [Why Deq Might Be the Best Home Lab Dashboard in 2025](https://www.virtualizationhowto.com/2025/12/why-deq-might-be-the-best-home-lab-dashboard-in-2025/)
-- [Has RAM Pricing Just Made Used Enterprise Servers the Better Home Lab Deal?](https://www.virtualizationhowto.com/2025/12/has-ram-pricing-just-made-used-enterprise-servers-the-better-home-lab-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
