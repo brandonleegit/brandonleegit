@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Things I Stopped Self-Hosting &lpar;And Why Cloud or Managed Won&rpar;](https://www.virtualizationhowto.com/2025/12/things-i-stopped-self-hosting-and-why-cloud-or-managed-won/)
 - [Why Zoraxy Might Be the Best Reverse Proxy for Home Labs](https://www.virtualizationhowto.com/2025/12/why-zoraxy-might-be-the-best-reverse-proxy-for-home-labs/)
 - [Docker Is Slowly Filling Up Your Home Lab Disk Space &lpar;And the Tool I Use to Fix It&rpar;](https://www.virtualizationhowto.com/2025/12/docker-is-slowly-filling-up-your-home-lab-disk-space-and-the-tool-i-use-to-fix-it/)
 - [I Now Manage My DNS Server from Git &lpar;and It Changed Everything&rpar;](https://www.virtualizationhowto.com/2025/12/i-now-manage-my-dns-server-from-git-and-it-changed-everything/)
 - [Stop Drawing Network Diagrams Manually Scanopy Does It for You](https://www.virtualizationhowto.com/2025/12/stop-drawing-network-diagrams-manually-scanopy-does-it-for-you/)
-- [12 Proxmox Host Tweaks Worth Doing This Weekend](https://www.virtualizationhowto.com/2025/12/12-proxmox-host-tweaks-worth-doing-this-weekend/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
