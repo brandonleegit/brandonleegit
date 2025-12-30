@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Arcane Might Be the Next Big Docker UI for the Home Lab](https://www.virtualizationhowto.com/2025/12/why-arcane-might-be-the-next-big-docker-ui-for-the-home-lab/)
 - [I Took Docker Container Monitoring to the Next Level With These 3 Tools](https://www.virtualizationhowto.com/2025/12/i-took-docker-container-monitoring-to-the-next-level-with-these-3-tools/)
 - [Things I Stopped Self-Hosting &lpar;And Why Cloud or Managed Won&rpar;](https://www.virtualizationhowto.com/2025/12/things-i-stopped-self-hosting-and-why-cloud-or-managed-won/)
 - [Why Zoraxy Might Be the Best Reverse Proxy for Home Labs](https://www.virtualizationhowto.com/2025/12/why-zoraxy-might-be-the-best-reverse-proxy-for-home-labs/)
 - [Docker Is Slowly Filling Up Your Home Lab Disk Space &lpar;And the Tool I Use to Fix It&rpar;](https://www.virtualizationhowto.com/2025/12/docker-is-slowly-filling-up-your-home-lab-disk-space-and-the-tool-i-use-to-fix-it/)
-- [I Now Manage My DNS Server from Git &lpar;and It Changed Everything&rpar;](https://www.virtualizationhowto.com/2025/12/i-now-manage-my-dns-server-from-git-and-it-changed-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
