@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Proxmox Inside Docker: A Weekend Home Lab Project to Learn Clustering and HA](https://www.virtualizationhowto.com/2026/01/run-proxmox-inside-docker-a-weekend-home-lab-project-to-learn-clustering-and-ha/)
 - [Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab](https://www.virtualizationhowto.com/2026/01/why-containers-will-matter-more-than-hypervisors-in-the-2026-home-lab/)
 - [A Look Back at My 2025 Home Lab and What Changed Along the Way](https://www.virtualizationhowto.com/2026/01/a-look-back-at-my-2025-home-lab-and-what-changed-along-the-way/)
 - [I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab](https://www.virtualizationhowto.com/2025/12/i-spent-a-year-running-proxmox-and-vmware-side-by-side-in-my-home-lab/)
 - [Proxmox Defaults I Leave Alone &lpar;And the Ones I Always Change&rpar;](https://www.virtualizationhowto.com/2025/12/proxmox-defaults-i-leave-alone-and-the-ones-i-always-change/)
-- [Why Arcane Might Be the Next Big Docker UI for the Home Lab](https://www.virtualizationhowto.com/2025/12/why-arcane-might-be-the-next-big-docker-ui-for-the-home-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
