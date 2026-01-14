@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MikroTik Switch Tips That Actually Matter in a Home Lab](https://www.virtualizationhowto.com/2026/01/mikrotik-switch-tips-that-actually-matter-in-a-home-lab/)
 - [This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time](https://www.virtualizationhowto.com/2026/01/this-new-traefik-dashboard-log-tool-changed-how-i-manage-traefik-in-real-time/)
 - [LabGopher Is Gone and RackRat Is the Alternative Homelab Builders Are Turning To](https://www.virtualizationhowto.com/2026/01/labgopher-is-gone-and-rackrat-is-the-alternative-homelab-builders-are-turning-to/)
 - [The Weirdest Things I’ve Successfully Run in My Home Lab](https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/)
 - [Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026](https://www.virtualizationhowto.com/2026/01/beelink-me-pro-nas-review-small-box-huge-storage-power-in-2026/)
-- [I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me](https://www.virtualizationhowto.com/2026/01/i-bought-a-10-inch-home-lab-rack-for-2026-and-it-surprised-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
