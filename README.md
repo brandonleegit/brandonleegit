@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Top DevOps Skills in 2026 You Can Learn in a Home Lab](https://www.virtualizationhowto.com/2026/01/the-top-devops-skills-in-2026-you-can-learn-in-a-home-lab/)
 - [Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026](https://www.virtualizationhowto.com/2026/01/inside-my-mini-rack-proxmox-and-kubernetes-home-lab-for-2026/)
 - [MikroTik Switch Tips That Actually Matter in a Home Lab](https://www.virtualizationhowto.com/2026/01/mikrotik-switch-tips-that-actually-matter-in-a-home-lab/)
 - [This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time](https://www.virtualizationhowto.com/2026/01/this-new-traefik-dashboard-log-tool-changed-how-i-manage-traefik-in-real-time/)
 - [LabGopher Is Gone and RackRat Is the Alternative Homelab Builders Are Turning To](https://www.virtualizationhowto.com/2026/01/labgopher-is-gone-and-rackrat-is-the-alternative-homelab-builders-are-turning-to/)
-- [The Weirdest Things I’ve Successfully Run in My Home Lab](https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
