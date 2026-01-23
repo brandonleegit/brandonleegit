@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Smallest Home Lab That Still Feels Like a Real Datacenter](https://www.virtualizationhowto.com/2026/01/the-smallest-home-lab-that-still-feels-like-a-real-datacenter/)
 - [I Ran Proxmox Datacenter Manager for a Month: What It’s Actually Good At](https://www.virtualizationhowto.com/2026/01/i-ran-proxmox-datacenter-manager-for-a-month-what-its-actually-good-at/)
 - [I Don’t Miss vCenter After Moving My Home Lab to Proxmox &lpar;Here’s Why&rpar;](https://www.virtualizationhowto.com/2026/01/i-dont-miss-vcenter-after-moving-my-home-lab-to-proxmox-heres-why/)
 - [Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLab](https://www.virtualizationhowto.com/2026/01/why-ceph-won-for-persistent-storage-in-my-talos-linux-kubernetes-minilab/)
 - [9 Home Lab Signals That Tell You You’re Building the Right Way](https://www.virtualizationhowto.com/2026/01/9-home-lab-signals-that-tell-you-youre-building-the-right-way/)
-- [I Tested Cosmos Server: Is This the Best Home Server OS Yet?](https://www.virtualizationhowto.com/2026/01/i-tested-cosmos-server-is-this-the-best-home-server-os-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
