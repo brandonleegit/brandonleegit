@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened](https://www.virtualizationhowto.com/2026/01/i-built-a-ceph-erasure-coded-nvme-cluster-in-my-home-lab-heres-what-actually-happened/)
 - [Proxmox Tips I Wish I Knew Before Building My First Home Lab](https://www.virtualizationhowto.com/2026/01/proxmox-tips-i-wish-i-knew-before-building-my-first-home-lab/)
 - [The Smallest Home Lab That Still Feels Like a Real Datacenter](https://www.virtualizationhowto.com/2026/01/the-smallest-home-lab-that-still-feels-like-a-real-datacenter/)
 - [I Ran Proxmox Datacenter Manager for a Month: What It’s Actually Good At](https://www.virtualizationhowto.com/2026/01/i-ran-proxmox-datacenter-manager-for-a-month-what-its-actually-good-at/)
 - [I Don’t Miss vCenter After Moving My Home Lab to Proxmox &lpar;Here’s Why&rpar;](https://www.virtualizationhowto.com/2026/01/i-dont-miss-vcenter-after-moving-my-home-lab-to-proxmox-heres-why/)
-- [Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLab](https://www.virtualizationhowto.com/2026/01/why-ceph-won-for-persistent-storage-in-my-talos-linux-kubernetes-minilab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
