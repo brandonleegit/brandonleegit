@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything](https://www.virtualizationhowto.com/2026/01/are-home-labs-dead-in-2026-the-comment-that-forced-me-to-rethink-everything/)
 - [Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use](https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/)
 - [I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened](https://www.virtualizationhowto.com/2026/01/i-tried-lacp-in-my-proxmox-home-lab-and-heres-what-actually-happened/)
 - [I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened](https://www.virtualizationhowto.com/2026/01/i-built-a-ceph-erasure-coded-nvme-cluster-in-my-home-lab-heres-what-actually-happened/)
 - [Proxmox Tips I Wish I Knew Before Building My First Home Lab](https://www.virtualizationhowto.com/2026/01/proxmox-tips-i-wish-i-knew-before-building-my-first-home-lab/)
-- [The Smallest Home Lab That Still Feels Like a Real Datacenter](https://www.virtualizationhowto.com/2026/01/the-smallest-home-lab-that-still-feels-like-a-real-datacenter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
