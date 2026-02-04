@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything](https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/)
 - [Why Your NAS Is the Perfect Proxmox Backup Server](https://www.virtualizationhowto.com/2026/02/why-your-nas-is-the-perfect-proxmox-backup-server/)
 - [Best Automation Projects You Can Build for Proxmox in a Home Lab in 2026](https://www.virtualizationhowto.com/2026/01/best-automation-projects-you-can-build-for-proxmox-in-a-home-lab-in-2026/)
 - [The Easiest Performance Upgrades You Can Make in Your Home Lab in 2026](https://www.virtualizationhowto.com/2026/01/the-easiest-performance-upgrades-you-can-make-in-your-home-lab-in-2026/)
 - [Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything](https://www.virtualizationhowto.com/2026/01/are-home-labs-dead-in-2026-the-comment-that-forced-me-to-rethink-everything/)
-- [Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use](https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
