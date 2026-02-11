@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab](https://www.virtualizationhowto.com/2026/02/moving-a-proxmox-os-drive-without-breaking-anything-in-your-home-lab/)
 - [Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Placement](https://www.virtualizationhowto.com/2026/02/managing-multiple-proxmox-clusters-gets-messy-when-you-want-smarter-placement/)
 - [This Proxmox Backup Gap Can Wipe Out Your Home Lab](https://www.virtualizationhowto.com/2026/02/this-proxmox-backup-gap-can-wipe-out-your-home-lab/)
 - [Proxmox Cluster Operations Every Home Labber Hopes They Never Need &lpar;Until They Do&rpar;](https://www.virtualizationhowto.com/2026/02/proxmox-cluster-operations-every-home-labber-hopes-they-never-need-until-they-do/)
 - [ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once](https://www.virtualizationhowto.com/2026/02/clustershell-for-proxmox-ve-is-how-i-manage-every-host-in-my-home-lab-at-once/)
-- [I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything](https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
