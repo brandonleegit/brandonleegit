@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP](https://www.virtualizationhowto.com/2026/02/i-built-a-5-node-proxmox-and-ceph-home-lab-with-17tb-and-dual-10gb-lacp/)
 - [How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab](https://www.virtualizationhowto.com/2026/02/how-i-made-a-single-docker-host-highly-available-using-proxmox-in-my-home-lab/)
 - [I’m Documenting My Entire Home Lab as Code with RackPeek](https://www.virtualizationhowto.com/2026/02/im-documenting-my-entire-home-lab-as-code-with-rackpeek/)
 - [5 Proxmox Management Tools I Use in My Home Lab in 2026](https://www.virtualizationhowto.com/2026/02/5-proxmox-management-tools-i-use-in-my-home-lab-in-2026/)
 - [What I’d Do &lpar;and Avoid&rpar; If I Were Building a Home Lab in 2026](https://www.virtualizationhowto.com/2026/02/what-id-do-and-avoid-if-i-were-building-a-home-lab-in-2026/)
-- [Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab](https://www.virtualizationhowto.com/2026/02/moving-a-proxmox-os-drive-without-breaking-anything-in-your-home-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
