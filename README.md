@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Patch My Proxmox Cluster Without Taking Anything Offline](https://www.virtualizationhowto.com/2026/02/how-i-patch-my-proxmox-cluster-without-taking-anything-offline/)
 - [Jumbo Frames Broke My Proxmox Cluster and Here’s Why](https://www.virtualizationhowto.com/2026/02/jumbo-frames-broke-my-proxmox-cluster-and-heres-why/)
 - [Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter](https://www.virtualizationhowto.com/2026/02/is-this-the-vcenter-experience-proxmox-has-been-missing-meet-proxcenter/)
 - [I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP](https://www.virtualizationhowto.com/2026/02/i-built-a-5-node-proxmox-and-ceph-home-lab-with-17tb-and-dual-10gb-lacp/)
 - [How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab](https://www.virtualizationhowto.com/2026/02/how-i-made-a-single-docker-host-highly-available-using-proxmox-in-my-home-lab/)
-- [I’m Documenting My Entire Home Lab as Code with RackPeek](https://www.virtualizationhowto.com/2026/02/im-documenting-my-entire-home-lab-as-code-with-rackpeek/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
