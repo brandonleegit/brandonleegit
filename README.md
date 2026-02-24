@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Made My Mini PC Home Lab Feel Enterprise Grade: Intel vPro with AMT](https://www.virtualizationhowto.com/2026/02/this-made-my-mini-pc-home-lab-feel-enterprise-grade-intel-vpro-with-amt/)
 - [5 Proxmox Maintenance Tasks Most Home Labs Ignore](https://www.virtualizationhowto.com/2026/02/5-proxmox-maintenance-tasks-most-home-labs-ignore/)
 - [5 Unexpected Ways to Save Power in Your Home Lab &lpar;Without Killing Performance&rpar;](https://www.virtualizationhowto.com/2026/02/5-unexpected-ways-to-save-power-in-your-home-lab-without-killing-performance/)
 - [How I Patch My Proxmox Cluster Without Taking Anything Offline](https://www.virtualizationhowto.com/2026/02/how-i-patch-my-proxmox-cluster-without-taking-anything-offline/)
 - [Jumbo Frames Broke My Proxmox Cluster and Here’s Why](https://www.virtualizationhowto.com/2026/02/jumbo-frames-broke-my-proxmox-cluster-and-heres-why/)
-- [Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter](https://www.virtualizationhowto.com/2026/02/is-this-the-vcenter-experience-proxmox-has-been-missing-meet-proxcenter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
