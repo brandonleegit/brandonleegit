@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Docker Features Most Home Labbers Are Not Using &lpar;But Should Be&rpar;](https://www.virtualizationhowto.com/2026/03/5-docker-features-most-home-labbers-are-not-using-but-should-be/)
 - [How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod](https://www.virtualizationhowto.com/2026/03/how-i-fixed-heat-buildup-in-my-10-inch-mini-rack-with-a-simple-cooling-mod/)
 - [PegaProx Now Adds Built-In ESXi Migration and Proxmox Backup Monitoring](https://www.virtualizationhowto.com/2026/03/pegaprox-now-adds-built-in-esxi-migration-and-proxmox-backup-monitoring/)
 - [PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab](https://www.virtualizationhowto.com/2026/03/pve-note-buddy-is-a-smarter-way-to-use-proxmox-notes-in-your-home-lab/)
 - [5 Home Lab VLAN Mistakes That Will Break Your Network in 2026](https://www.virtualizationhowto.com/2026/03/5-home-lab-vlan-mistakes-that-will-break-your-network-in-2026/)
-- [5 Home Lab Hardware Projects Most People Keep Putting Off](https://www.virtualizationhowto.com/2026/02/5-home-lab-hardware-projects-most-people-keep-putting-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
