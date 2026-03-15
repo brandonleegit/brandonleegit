@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Added an eGPU to My Proxmox Mini PC Home Lab Using OCuLink &lpar;Here’s What Happened&rpar;](https://www.virtualizationhowto.com/2026/03/i-added-an-egpu-to-my-proxmox-mini-pc-home-lab-using-oculink-heres-what-happened/)
 - [The 7 Proxmox Commands I Use Constantly in My Home Lab](https://www.virtualizationhowto.com/2026/03/the-7-proxmox-commands-i-use-constantly-in-my-home-lab/)
 - [Why Mini PC Clusters Are Taking Over Home Labs](https://www.virtualizationhowto.com/2026/03/why-mini-pc-clusters-are-taking-over-home-labs/)
 - [5 Things I Wish I Knew Before Running Proxmox with Ceph in a Home Lab](https://www.virtualizationhowto.com/2026/03/5-things-i-wish-i-knew-before-running-proxmox-with-ceph-in-a-home-lab/)
 - [7 Network Settings I Always Configure on a New Proxmox Server](https://www.virtualizationhowto.com/2026/03/7-network-settings-i-always-configure-on-a-new-proxmox-server/)
-- [Consumer vs Enterprise SSDs in the Home Lab: I Benchmarked Both in Ceph](https://www.virtualizationhowto.com/2026/03/consumer-vs-enterprise-ssds-in-the-home-lab-i-benchmarked-both-in-ceph/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
