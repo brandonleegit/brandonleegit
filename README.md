@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 hidden Proxmox features buried in the admin guide Your Home Lab Needs](https://www.virtualizationhowto.com/2026/03/7-hidden-proxmox-features-buried-in-the-admin-guide-your-home-lab-needs/)
 - [The Proxmox 9 Feature That Finally Fixes NIC Renaming Problems](https://www.virtualizationhowto.com/2026/03/the-proxmox-9-feature-that-finally-fixes-nic-renaming-problems/)
 - [How I Manage My Proxmox Cluster From My Phone &lpar;4 Mobile Tools I Use&rpar;](https://www.virtualizationhowto.com/2026/03/how-i-manage-my-proxmox-cluster-from-my-phone-4-mobile-tools-i-use/)
 - [I Added an eGPU to My Proxmox Mini PC Home Lab Using OCuLink &lpar;Here’s What Happened&rpar;](https://www.virtualizationhowto.com/2026/03/i-added-an-egpu-to-my-proxmox-mini-pc-home-lab-using-oculink-heres-what-happened/)
 - [The 7 Proxmox Commands I Use Constantly in My Home Lab](https://www.virtualizationhowto.com/2026/03/the-7-proxmox-commands-i-use-constantly-in-my-home-lab/)
-- [Why Mini PC Clusters Are Taking Over Home Labs](https://www.virtualizationhowto.com/2026/03/why-mini-pc-clusters-are-taking-over-home-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
