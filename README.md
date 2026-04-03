@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built My Own S3 Storage in My Home Lab &lpar;And It Actually Works&rpar;](https://www.virtualizationhowto.com/2026/04/i-built-my-own-s3-storage-in-my-home-lab-and-it-actually-works/)
 - [Why Your Home Lab Feels Slow &lpar;And What I Found&rpar;](https://www.virtualizationhowto.com/2026/04/why-your-home-lab-feels-slow-and-what-i-found/)
 - [Proxmox Finally Has a Real RVTools-Style Report &lpar;This Is What Was Missing&rpar;](https://www.virtualizationhowto.com/2026/03/proxmox-finally-has-a-real-rvtools-style-report-this-is-what-was-missing/)
 - [10 Home Lab Tools That Made My Setup Feel Like a Real Datacenter](https://www.virtualizationhowto.com/2026/03/10-home-lab-tools-that-made-my-setup-feel-like-a-real-datacenter/)
 - [Your Drives Might Be Failing. Check These Free Tools](https://www.virtualizationhowto.com/2026/03/your-drives-might-be-failing-check-these-free-tools/)
-- [7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference](https://www.virtualizationhowto.com/2026/03/7-home-lab-upgrades-under-100-that-actually-made-a-huge-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
