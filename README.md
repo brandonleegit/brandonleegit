@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked](https://www.virtualizationhowto.com/2026/04/i-almost-gave-up-on-proxmox-iscsi-storage-in-my-home-lab-then-this-worked/)
 - [I Added This to My Docker Compose and It Changed Everything](https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/)
 - [5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026](https://www.virtualizationhowto.com/2026/04/5-operating-systems-i-wouldnt-run-my-home-lab-without-in-2026/)
 - [10 Ceph Commands I Use in My Proxmox Home Lab](https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/)
 - [I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong](https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/)
-- [I Still Run These Docker Containers Every Day in 2026 &lpar;After Moving to Kubernetes&rpar;](https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
