@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Thought I Had the Best Docker OS in My Home Lab Until I Tried This](https://www.virtualizationhowto.com/2026/04/i-thought-i-had-the-best-docker-os-in-my-home-lab-until-i-tried-this/)
 - [I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong](https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/)
 - [I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why](https://www.virtualizationhowto.com/2026/04/im-now-running-ceph-and-iscsi-in-my-proxmox-home-lab-heres-why/)
 - [My Daily Home Lab Checklist That Prevents Most Problems](https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/)
 - [I Tried borg-ui in My Home Lab and It Made Backups Way Easier](https://www.virtualizationhowto.com/2026/04/i-tried-borg-ui-in-my-home-lab-and-it-made-backups-way-easier/)
-- [I Built a Podman Server in My Home Lab This Weekend and This Surprised Me](https://www.virtualizationhowto.com/2026/04/i-built-a-podman-server-in-my-home-lab-this-weekend-and-this-surprised-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
