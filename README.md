@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Installed Flatcar Linux on Proxmox and It’s Not Like a Normal Linux VM](https://www.virtualizationhowto.com/2026/04/i-installed-flatcar-linux-on-proxmox-and-its-not-like-a-normal-linux-vm/)
 - [The Biggest Docker Mistakes I Still See in Home Labs &lpar;And How I Fix Them&rpar;](https://www.virtualizationhowto.com/2026/04/the-biggest-docker-mistakes-i-still-see-in-home-labs-and-how-i-fix-them/)
 - [I Thought I Had the Best Docker OS in My Home Lab Until I Tried This](https://www.virtualizationhowto.com/2026/04/i-thought-i-had-the-best-docker-os-in-my-home-lab-until-i-tried-this/)
 - [I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong](https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/)
 - [I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why](https://www.virtualizationhowto.com/2026/04/im-now-running-ceph-and-iscsi-in-my-proxmox-home-lab-heres-why/)
-- [My Daily Home Lab Checklist That Prevents Most Problems](https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
