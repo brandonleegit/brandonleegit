@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Proxmox SDN Worth It for a Home Lab?](https://www.virtualizationhowto.com/2026/04/is-proxmox-sdn-worth-it-for-a-home-lab/)
 - [I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours](https://www.virtualizationhowto.com/2026/04/i-use-packer-to-automate-ubuntu-server-26-04-on-proxmox-and-it-saves-me-hours/)
 - [I Replaced My Monitoring Stack and This Just Works in My Home Lab](https://www.virtualizationhowto.com/2026/04/i-replaced-my-monitoring-stack-and-this-just-works-in-my-home-lab/)
 - [I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible](https://www.virtualizationhowto.com/2026/04/i-can-rebuild-my-home-lab-from-scratch-in-hours-and-these-5-habits-made-it-possible/)
 - [I Tried Tainer for Proxmox and It Feels Like Portainer for VMs](https://www.virtualizationhowto.com/2026/04/i-tried-tainer-for-proxmox-and-it-feels-like-portainer-for-vms/)
-- [Proxmox 9.1.8 Finally Rebalances HA Workloads Automatically](https://www.virtualizationhowto.com/2026/04/proxmox-9-1-8-finally-rebalances-ha-workloads-automatically/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
