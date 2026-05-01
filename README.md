@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups](https://www.virtualizationhowto.com/2026/04/proxmox-backup-server-4-2-just-changed-how-i-do-offsite-backups/)
 - [I Tried Traefik Manager in My Home Lab and It Makes Traefik Much Easier](https://www.virtualizationhowto.com/2026/04/i-tried-traefik-manager-in-my-home-lab-and-it-makes-traefik-much-easier/)
 - [Is Proxmox SDN Worth It for a Home Lab?](https://www.virtualizationhowto.com/2026/04/is-proxmox-sdn-worth-it-for-a-home-lab/)
 - [I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours](https://www.virtualizationhowto.com/2026/04/i-use-packer-to-automate-ubuntu-server-26-04-on-proxmox-and-it-saves-me-hours/)
 - [I Replaced My Monitoring Stack and This Just Works in My Home Lab](https://www.virtualizationhowto.com/2026/04/i-replaced-my-monitoring-stack-and-this-just-works-in-my-home-lab/)
-- [I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible](https://www.virtualizationhowto.com/2026/04/i-can-rebuild-my-home-lab-from-scratch-in-hours-and-these-5-habits-made-it-possible/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
