@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting](https://www.virtualizationhowto.com/2026/05/vm-migration-in-proxmox-kept-breaking-until-i-fixed-this-cpu-setting/)
 - [I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut](https://www.virtualizationhowto.com/2026/05/i-tried-new-proxmox-tools-in-may-2026-and-only-a-few-made-the-cut/)
 - [I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot](https://www.virtualizationhowto.com/2026/05/i-can-finally-see-my-entire-home-lab-and-it-changed-how-i-troubleshoot/)
 - [Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups](https://www.virtualizationhowto.com/2026/04/proxmox-backup-server-4-2-just-changed-how-i-do-offsite-backups/)
 - [I Tried Traefik Manager in My Home Lab and It Makes Traefik Much Easier](https://www.virtualizationhowto.com/2026/04/i-tried-traefik-manager-in-my-home-lab-and-it-makes-traefik-much-easier/)
-- [Is Proxmox SDN Worth It for a Home Lab?](https://www.virtualizationhowto.com/2026/04/is-proxmox-sdn-worth-it-for-a-home-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
