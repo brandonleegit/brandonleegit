@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Tried This New Open Source Kubernetes Dashboard and It’s Surprisingly Good](https://www.virtualizationhowto.com/2026/05/i-tried-this-new-open-source-kubernetes-dashboard-and-its-surprisingly-good/)
 - [PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard](https://www.virtualizationhowto.com/2026/05/patchmon-v2-finally-lets-you-patch-your-servers-from-one-dashboard/)
 - [VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting](https://www.virtualizationhowto.com/2026/05/vm-migration-in-proxmox-kept-breaking-until-i-fixed-this-cpu-setting/)
 - [I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut](https://www.virtualizationhowto.com/2026/05/i-tried-new-proxmox-tools-in-may-2026-and-only-a-few-made-the-cut/)
 - [I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot](https://www.virtualizationhowto.com/2026/05/i-can-finally-see-my-entire-home-lab-and-it-changed-how-i-troubleshoot/)
-- [Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups](https://www.virtualizationhowto.com/2026/04/proxmox-backup-server-4-2-just-changed-how-i-do-offsite-backups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
