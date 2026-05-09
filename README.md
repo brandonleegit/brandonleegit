@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Proxmox Wasn’t Reclaiming Storage Until I Fixed This Setting](https://www.virtualizationhowto.com/2026/05/why-proxmox-wasnt-reclaiming-storage-until-i-fixed-this-setting/)
 - [Proxmox Networking Mistakes That Quietly Break Your Home Lab](https://www.virtualizationhowto.com/2026/05/proxmox-networking-mistakes-that-quietly-break-your-home-lab/)
 - [I Tried This New Open Source Kubernetes Dashboard and It’s Surprisingly Good](https://www.virtualizationhowto.com/2026/05/i-tried-this-new-open-source-kubernetes-dashboard-and-its-surprisingly-good/)
 - [PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard](https://www.virtualizationhowto.com/2026/05/patchmon-v2-finally-lets-you-patch-your-servers-from-one-dashboard/)
 - [VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting](https://www.virtualizationhowto.com/2026/05/vm-migration-in-proxmox-kept-breaking-until-i-fixed-this-cpu-setting/)
-- [I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut](https://www.virtualizationhowto.com/2026/05/i-tried-new-proxmox-tools-in-may-2026-and-only-a-few-made-the-cut/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
