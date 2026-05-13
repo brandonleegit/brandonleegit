@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Lightweight Proxmox Tool Makes CLI Management Faster](https://www.virtualizationhowto.com/2026/05/this-lightweight-proxmox-tool-makes-cli-management-faster/)
 - [The Storage Mistakes That Quietly Hurt Your Proxmox Performance](https://www.virtualizationhowto.com/2026/05/the-storage-mistakes-that-quietly-hurt-your-proxmox-performance/)
 - [5 Proxmox Optimizations Worth Doing This Weekend](https://www.virtualizationhowto.com/2026/05/5-proxmox-optimizations-worth-doing-this-weekend/)
 - [Why Proxmox Wasn’t Reclaiming Storage Until I Fixed This Setting](https://www.virtualizationhowto.com/2026/05/why-proxmox-wasnt-reclaiming-storage-until-i-fixed-this-setting/)
 - [Proxmox Networking Mistakes That Quietly Break Your Home Lab](https://www.virtualizationhowto.com/2026/05/proxmox-networking-mistakes-that-quietly-break-your-home-lab/)
-- [I Tried This New Open Source Kubernetes Dashboard and It’s Surprisingly Good](https://www.virtualizationhowto.com/2026/05/i-tried-this-new-open-source-kubernetes-dashboard-and-its-surprisingly-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
