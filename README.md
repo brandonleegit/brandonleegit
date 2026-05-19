@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The First 5 Things I Change on Every Docker Host](https://www.virtualizationhowto.com/2026/05/the-first-5-things-i-change-on-every-docker-host/)
 - [The Best Infrastructure Decisions I Made This Year](https://www.virtualizationhowto.com/2026/05/the-best-infrastructure-decisions-i-made-this-year/)
 - [What I Learned After Migrating Fully Away From VMware](https://www.virtualizationhowto.com/2026/05/what-i-learned-after-migrating-fully-away-from-vmware/)
 - [I Changed My Default Proxmox Console and It Improved Everything](https://www.virtualizationhowto.com/2026/05/i-changed-my-default-proxmox-console-and-it-improved-everything/)
 - [I Built a Local AI Coding Agent Home Lab Setup With OpenCode and Ollama](https://www.virtualizationhowto.com/2026/05/i-built-a-local-ai-coding-agent-home-lab-setup-with-opencode-and-ollama/)
-- [This Lightweight Proxmox Tool Makes CLI Management Faster](https://www.virtualizationhowto.com/2026/05/this-lightweight-proxmox-tool-makes-cli-management-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
