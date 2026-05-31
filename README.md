@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Did Not Expect to Like This Self-Hosted Termius Alternative This Much](https://www.virtualizationhowto.com/2026/05/i-did-not-expect-to-like-this-self-hosted-termius-alternative-this-much/)
 - [Proxmox Datacenter Manager 1.1 Quietly Added Its Best Feature Yet](https://www.virtualizationhowto.com/2026/05/proxmox-datacenter-manager-1-1-quietly-added-its-best-feature-yet/)
 - [I thought my Technitium DNS cluster was fixed. These settings were the real problem](https://www.virtualizationhowto.com/2026/05/i-thought-my-technitium-dns-cluster-was-fixed-these-settings-were-the-real-problem/)
 - [I Tried Termius for My Home Lab and Replaced My SSH Client](https://www.virtualizationhowto.com/2026/05/i-tried-termius-for-my-home-lab-and-replaced-my-ssh-client/)
 - [Docker on Windows Server Finally Felt Easier After I Tried VisualDock Server](https://www.virtualizationhowto.com/2026/05/docker-on-windows-server-finally-felt-easier-after-i-tried-visualdock-server/)
-- [The Home Lab Alerts I Refuse to Live Without](https://www.virtualizationhowto.com/2026/05/the-home-lab-alerts-i-refuse-to-live-without/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
