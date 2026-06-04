@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Tried Proxmox Automated Installs and Am Never Going Back](https://www.virtualizationhowto.com/2026/06/i-tried-proxmox-automated-installs-and-am-never-going-back/)
 - [I Tried WolfStack and It Might Be the Simplest Way to Run a Home Lab](https://www.virtualizationhowto.com/2026/06/i-tried-wolfstack-and-it-might-be-the-simplest-way-to-run-a-home-lab/)
 - [What Worked Great Until My Home Lab Got Bigger &lpar;And Why I Moved On&rpar;](https://www.virtualizationhowto.com/2026/06/what-worked-great-until-my-home-lab-got-bigger-and-why-i-moved-on/)
 - [I Did Not Expect to Like This Self-Hosted Termius Alternative This Much](https://www.virtualizationhowto.com/2026/05/i-did-not-expect-to-like-this-self-hosted-termius-alternative-this-much/)
 - [Proxmox Datacenter Manager 1.1 Quietly Added Its Best Feature Yet](https://www.virtualizationhowto.com/2026/05/proxmox-datacenter-manager-1-1-quietly-added-its-best-feature-yet/)
-- [I thought my Technitium DNS cluster was fixed. These settings were the real problem](https://www.virtualizationhowto.com/2026/05/i-thought-my-technitium-dns-cluster-was-fixed-these-settings-were-the-real-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
