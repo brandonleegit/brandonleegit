@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Never Bought Into the Home Lab Dashboard Trend](https://www.virtualizationhowto.com/2026/06/why-i-never-bought-into-the-home-lab-dashboard-trend/)
 - [I Tried This Storage OS Most Home Labbers Have Never Heard Of](https://www.virtualizationhowto.com/2026/06/i-tried-this-storage-os-most-home-labbers-have-never-heard-of/)
 - [I Still Use Wireshark, but This Is the Network Tool I Open First](https://www.virtualizationhowto.com/2026/06/i-still-use-wireshark-but-this-is-the-network-tool-i-open-first/)
 - [I No Longer Follow This Popular Home Lab Advice](https://www.virtualizationhowto.com/2026/06/i-no-longer-follow-this-popular-home-lab-advice/)
 - [I Tried MicroCloud and It Might Be Canonical’s Most Interesting Home Lab Project Yet](https://www.virtualizationhowto.com/2026/06/i-tried-microcloud-and-it-might-be-canonicals-most-interesting-home-lab-project-yet/)
-- [This Home Lab Learning Tool Made Kubernetes Finally Click for Me](https://www.virtualizationhowto.com/2026/06/this-home-lab-learning-tool-made-kubernetes-finally-click-for-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
