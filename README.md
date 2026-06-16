@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Thought I Needed an Unbound Cluster. The Solution Was Much Simpler](https://www.virtualizationhowto.com/2026/06/i-thought-i-needed-an-unbound-cluster-the-solution-was-much-simpler/)
 - [These Are the Home Lab Projects That Earned a Permanent Place in My Lab](https://www.virtualizationhowto.com/2026/06/these-are-the-home-lab-projects-that-earned-a-permanent-place-in-my-lab/)
 - [Why I Never Bought Into the Home Lab Dashboard Trend](https://www.virtualizationhowto.com/2026/06/why-i-never-bought-into-the-home-lab-dashboard-trend/)
 - [I Tried This Storage OS Most Home Labbers Have Never Heard Of](https://www.virtualizationhowto.com/2026/06/i-tried-this-storage-os-most-home-labbers-have-never-heard-of/)
 - [I Still Use Wireshark, but This Is the Network Tool I Open First](https://www.virtualizationhowto.com/2026/06/i-still-use-wireshark-but-this-is-the-network-tool-i-open-first/)
-- [I No Longer Follow This Popular Home Lab Advice](https://www.virtualizationhowto.com/2026/06/i-no-longer-follow-this-popular-home-lab-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
