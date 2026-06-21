@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 DNS Servers Every Home Lab Should Know About &lpar;2026 Guide&rpar;](https://www.virtualizationhowto.com/2026/06/5-dns-servers-every-home-lab-should-know-about-2026-guide/)
 - [10 Linux Tweaks I Make on Every New Home Lab Server](https://www.virtualizationhowto.com/2026/06/10-linux-tweaks-i-make-on-every-new-home-lab-server/)
 - [Most Home Lab Outages Start With These Hidden Dependencies](https://www.virtualizationhowto.com/2026/06/most-home-lab-outages-start-with-these-hidden-dependencies/)
 - [These Git Repositories Changed How I Manage My Home Lab](https://www.virtualizationhowto.com/2026/06/these-git-repositories-changed-how-i-manage-my-home-lab/)
 - [I Created a Modern Home Lab Blueprint. Here’s What Made the Cut](https://www.virtualizationhowto.com/2026/06/i-created-a-modern-home-lab-blueprint-heres-what-made-the-cut/)
-- [I Thought I Needed an Unbound Cluster. The Solution Was Much Simpler](https://www.virtualizationhowto.com/2026/06/i-thought-i-needed-an-unbound-cluster-the-solution-was-much-simpler/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
