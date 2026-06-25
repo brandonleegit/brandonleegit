@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Quadlets Finally Made Podman Click for Me in the Home Lab](https://www.virtualizationhowto.com/2026/06/why-quadlets-finally-made-podman-click-for-me-in-the-home-lab/)
 - [What Actually Changed After I Moved My Home Lab to Immutable Linux](https://www.virtualizationhowto.com/2026/06/what-actually-changed-after-i-moved-my-home-lab-to-immutable-linux/)
 - [Sencho Might Be the Docker Compose Management Tool Home Labs Have Been Waiting For](https://www.virtualizationhowto.com/2026/06/sencho-might-be-the-docker-compose-management-tool-home-labs-have-been-waiting-for/)
 - [5 DNS Servers Every Home Lab Should Know About &lpar;2026 Guide&rpar;](https://www.virtualizationhowto.com/2026/06/5-dns-servers-every-home-lab-should-know-about-2026-guide/)
 - [10 Linux Tweaks I Make on Every New Home Lab Server](https://www.virtualizationhowto.com/2026/06/10-linux-tweaks-i-make-on-every-new-home-lab-server/)
-- [Most Home Lab Outages Start With These Hidden Dependencies](https://www.virtualizationhowto.com/2026/06/most-home-lab-outages-start-with-these-hidden-dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
