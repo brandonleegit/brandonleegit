@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 GitOps Tools for Docker Compose to Try This Weekend](https://www.virtualizationhowto.com/2026/07/7-gitops-tools-for-docker-compose-to-try-this-weekend/)
 - [This New Open Source Tool Completely Changed How I Manage My Home Lab](https://www.virtualizationhowto.com/2026/07/this-new-open-source-tool-completely-changed-how-i-manage-my-home-lab/)
 - [My Favorite MCP Servers for the Home Lab in 2026](https://www.virtualizationhowto.com/2026/07/my-favorite-mcp-servers-for-the-home-lab-in-2026/)
 - [7 Proxmox LXC Commands That Changed How I Manage My Home Lab Containers](https://www.virtualizationhowto.com/2026/07/7-proxmox-lxc-commands-that-changed-how-i-manage-my-home-lab-containers/)
 - [This Free Backup Tool Just Added Docker Volume Backups](https://www.virtualizationhowto.com/2026/07/this-free-backup-tool-just-added-docker-volume-backups/)
-- [I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected](https://www.virtualizationhowto.com/2026/07/i-connected-ai-to-my-proxmox-cluster-using-mcp-and-it-was-better-than-i-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
