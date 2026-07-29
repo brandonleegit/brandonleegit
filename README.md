@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reverse Proxy Mistakes I Still See in Home Labs &lpar;And How I Avoid Them&rpar;](https://www.virtualizationhowto.com/2026/07/the-reverse-proxy-mistakes-i-still-see-in-home-labs-and-how-i-avoid-them/)
 - [I Thought My DNS Was Fine Until I Started Monitoring This](https://www.virtualizationhowto.com/2026/07/i-thought-my-dns-was-fine-until-i-started-monitoring-this/)
 - [These Downloadable AI Skills Made My Home Lab Agents Much More Useful](https://www.virtualizationhowto.com/2026/07/these-downloadable-ai-skills-made-my-home-lab-agents-much-more-useful/)
 - [This Lightweight Docker Tool Solves One of My Biggest Home Lab Annoyances](https://www.virtualizationhowto.com/2026/07/this-lightweight-docker-tool-solves-one-of-my-biggest-home-lab-annoyances/)
 - [This Free Docker Dashboard Shows Your Entire Stack in 3D](https://www.virtualizationhowto.com/2026/07/this-free-docker-dashboard-shows-your-entire-stack-in-3d/)
-- [9 Proxmox Cleanup Tasks You Probably Forgot](https://www.virtualizationhowto.com/2026/07/9-proxmox-cleanup-tasks-you-probably-forgot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
