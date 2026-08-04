@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 8 Hypervisors I’d Actually Recommend in Late 2026](https://www.virtualizationhowto.com/2026/08/the-8-hypervisors-id-actually-recommend-in-late-2026/)
 - [The Docker Networking Mistakes I Still See in Home Labs &lpar;And How I Avoid Them&rpar;](https://www.virtualizationhowto.com/2026/08/the-docker-networking-mistakes-i-still-see-in-home-labs-and-how-i-avoid-them/)
 - [The 9 Checks I Make Before Trusting Any Docker Image](https://www.virtualizationhowto.com/2026/07/the-9-checks-i-make-before-trusting-any-docker-image/)
 - [The systemd Services and Timers I Use in My Immutable Linux Home Lab](https://www.virtualizationhowto.com/2026/07/the-systemd-services-and-timers-i-use-in-my-immutable-linux-home-lab/)
 - [How I Organize My Entire Home Lab So I Can Actually Find Anything](https://www.virtualizationhowto.com/2026/07/how-i-organize-my-entire-home-lab-so-i-can-actually-find-anything/)
-- [The Reverse Proxy Mistakes I Still See in Home Labs &lpar;And How I Avoid Them&rpar;](https://www.virtualizationhowto.com/2026/07/the-reverse-proxy-mistakes-i-still-see-in-home-labs-and-how-i-avoid-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
