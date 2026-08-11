@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Home Lab Services I Always Give a Static IP Address](https://www.virtualizationhowto.com/2026/08/7-home-lab-services-i-always-give-a-static-ip-address/)
 - [Install Proxmox ARM64 on a Raspberry Pi 5 This Weekend](https://www.virtualizationhowto.com/2026/08/install-proxmox-arm64-on-a-raspberry-pi-5-this-weekend/)
 - [The 9 Things My Home Lab Automates While I’m Sleeping](https://www.virtualizationhowto.com/2026/08/the-9-things-my-home-lab-automates-while-im-sleeping/)
 - [Proxmox ARM64 Changes Everything for Home Labs](https://www.virtualizationhowto.com/2026/08/proxmox-arm64-changes-everything-for-home-labs/)
 - [The Best Free Home Lab Tools I Discovered in 2026](https://www.virtualizationhowto.com/2026/08/the-best-free-home-lab-tools-i-discovered-in-2026/)
-- [The Proxmox Warning Lights I Never Ignore](https://www.virtualizationhowto.com/2026/08/the-proxmox-warning-lights-i-never-ignore/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
