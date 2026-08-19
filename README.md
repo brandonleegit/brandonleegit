@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 OPNsense Settings I Change for Every Home Lab Firewall](https://www.virtualizationhowto.com/2026/08/9-opnsense-settings-i-change-for-every-home-lab-firewall/)
 - [I Got Proxmox VE 9 Working on Raspberry Pi 5 With NVMe Boot and the Onboard NIC](https://www.virtualizationhowto.com/2026/08/i-got-proxmox-ve-9-working-on-raspberry-pi-5-with-nvme-boot-and-the-onboard-nic/)
 - [Could This Be the Easiest Way to Run MCP Servers in Your Home Lab?](https://www.virtualizationhowto.com/2026/08/could-this-be-the-easiest-way-to-run-mcp-servers-in-your-home-lab/)
 - [Back to Home Lab School 2026: 7 Learning Projects to Start This Weekend](https://www.virtualizationhowto.com/2026/08/back-to-home-lab-school-2026-7-learning-projects-to-start-this-weekend/)
 - [8 Modern Linux Commands I Use Instead of the Old-School Alternatives](https://www.virtualizationhowto.com/2026/08/8-modern-linux-commands-i-use-instead-of-the-old-school-alternatives/)
-- [7 Proxmox Memory Tweaks That Make Your RAM Go Further](https://www.virtualizationhowto.com/2026/08/7-proxmox-memory-tweaks-that-make-your-ram-go-further/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
