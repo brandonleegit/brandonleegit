@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Thought Keepalived Only Protected My Home Lab Servers. Then I Found Track Scripts](https://www.virtualizationhowto.com/2026/09/i-thought-keepalived-only-protected-my-home-lab-servers-then-i-found-track-scripts/)
 - [Proxmox Just Removed One of Its Biggest Weaknesses](https://www.virtualizationhowto.com/2026/09/proxmox-just-removed-one-of-its-biggest-weaknesses/)
 - [7 Proxmox Decisions That Are Painful to Change Later](https://www.virtualizationhowto.com/2026/09/7-proxmox-decisions-that-are-painful-to-change-later/)
 - [I Tried Forgejo in My Home Lab. It Might Be the Easiest Self-Hosted Git Server Yet](https://www.virtualizationhowto.com/2026/09/i-tried-forgejo-in-my-home-lab-it-might-be-the-easiest-self-hosted-git-server-yet/)
 - [I Connected AI to My Home Lab. Then I Realized What It Could Access](https://www.virtualizationhowto.com/2026/08/i-connected-ai-to-my-home-lab-then-i-realized-what-it-could-access/)
-- [I Tried Omarchy Linux as My Home Lab Workstation This Weekend. Here’s What Happened.](https://www.virtualizationhowto.com/2026/08/i-tried-omarchy-linux-as-my-home-lab-workstation-this-weekend-heres-what-happened/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
