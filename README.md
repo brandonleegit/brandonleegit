@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
 - [7 Weekend Projects That Make Your Home Lab Less Dependent on You](https://www.virtualizationhowto.com/2026/09/7-weekend-projects-that-make-your-home-lab-less-dependent-on-you/)
 - [7 Simple Home Lab HA Projects for This Weekend](https://www.virtualizationhowto.com/2026/09/7-simple-home-lab-ha-projects-for-this-weekend/)
 - [I Thought Keepalived Only Protected My Home Lab Servers. Then I Found Track Scripts](https://www.virtualizationhowto.com/2026/09/i-thought-keepalived-only-protected-my-home-lab-servers-then-i-found-track-scripts/)
 - [Proxmox Just Removed One of Its Biggest Weaknesses](https://www.virtualizationhowto.com/2026/09/proxmox-just-removed-one-of-its-biggest-weaknesses/)
-- [7 Proxmox Decisions That Are Painful to Change Later](https://www.virtualizationhowto.com/2026/09/7-proxmox-decisions-that-are-painful-to-change-later/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
