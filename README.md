@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If I Had 2 Hours for My Home Lab This Weekend, I’d Do These 7 Things](https://www.virtualizationhowto.com/2026/09/if-i-had-2-hours-for-my-home-lab-this-weekend-id-do-these-7-things/)
 - [I Turned My Proxmox Server Into a NAS Without Installing TrueNAS](https://www.virtualizationhowto.com/2026/09/i-turned-my-proxmox-server-into-a-nas-without-installing-truenas/)
 - [I Changed How I Do GPU Passthrough in Proxmox After Finding This Feature](https://www.virtualizationhowto.com/2026/09/i-changed-how-i-do-gpu-passthrough-in-proxmox-after-finding-this-feature/)
 - [I Was Running Redundant VMs on the Same Proxmox Host Without Realizing It](https://www.virtualizationhowto.com/2026/09/i-was-running-redundant-vms-on-the-same-proxmox-host-without-realizing-it/)
 - [Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
-- [7 Weekend Projects That Make Your Home Lab Less Dependent on You](https://www.virtualizationhowto.com/2026/09/7-weekend-projects-that-make-your-home-lab-less-dependent-on-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
