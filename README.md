@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueNAS Just Fixed One of Proxmox’s Biggest Storage Headaches](https://www.virtualizationhowto.com/2026/09/truenas-just-fixed-one-of-proxmoxs-biggest-storage-headaches/)
 - [I Gave AI Control of My Docker Home Lab With Komodo MCP](https://www.virtualizationhowto.com/2026/09/i-gave-ai-control-of-my-docker-home-lab-with-komodo-mcp/)
 - [I Added Break-Glass Accounts Before My Home Lab Locked Me Out](https://www.virtualizationhowto.com/2026/09/i-added-break-glass-accounts-before-my-home-lab-locked-me-out/)
 - [I Don’t Trust a Home Lab Service Until It Passes These 7 Tests](https://www.virtualizationhowto.com/2026/09/i-dont-trust-a-home-lab-service-until-it-passes-these-7-tests/)
 - [I Stopped Manually Updating My Docker Container Stacks. I Use This Instead](https://www.virtualizationhowto.com/2026/09/i-stopped-manually-updating-my-docker-container-stacks-i-use-this-instead/)
-- [If I Had 2 Hours for My Home Lab This Weekend, I’d Do These 7 Things](https://www.virtualizationhowto.com/2026/09/if-i-had-2-hours-for-my-home-lab-this-weekend-id-do-these-7-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
