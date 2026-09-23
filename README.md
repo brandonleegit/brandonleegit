@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Installed the New TrueNAS Proxmox Plugin in My Home Lab. Here’s the Setup](https://www.virtualizationhowto.com/2026/09/i-installed-the-new-truenas-proxmox-plugin-in-my-home-lab-heres-the-setup/)
 - [Pangolin 1.23 Just Made High Availability Clustering Self-Service for Home Labs](https://www.virtualizationhowto.com/2026/09/pangolin-1-23-just-made-high-availability-clustering-self-service-for-home-labs/)
 - [I Wouldn’t Run a 2-Node Proxmox Cluster Without a Third Vote](https://www.virtualizationhowto.com/2026/09/i-wouldnt-run-a-2-node-proxmox-cluster-without-a-third-vote/)
 - [TrueNAS Is Only the Beginning: 5 Proxmox Storage Predictions for 2027](https://www.virtualizationhowto.com/2026/09/truenas-is-only-the-beginning-5-proxmox-storage-predictions-for-2027/)
 - [7 New Home Lab Projects to Try This Weekend: September 18, 2026](https://www.virtualizationhowto.com/2026/09/7-new-home-lab-projects-to-try-this-weekend-september-18-2026/)
-- [7 Proxmox Checks I Make Before I Trust a New Host](https://www.virtualizationhowto.com/2026/09/7-proxmox-checks-i-make-before-i-trust-a-new-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
