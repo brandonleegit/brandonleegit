@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Put TrueNAS on a Grafana Dashboard. Then It Showed 12.7 PB of ARC.](https://www.virtualizationhowto.com/2026/09/i-put-truenas-on-a-grafana-dashboard-then-it-showed-12-7-pb-of-arc/)
 - [I Built My Ultimate TrueNAS Storage Setup for Proxmox](https://www.virtualizationhowto.com/2026/09/i-built-my-ultimate-truenas-storage-setup-for-proxmox/)
 - [The Dockhand Security Setting You Should Turn On in Your Home Lab Now](https://www.virtualizationhowto.com/2026/09/the-dockhand-security-setting-you-should-turn-on-in-your-home-lab-now/)
 - [5 Home Lab Projects to Try This Weekend: September 25, 2026](https://www.virtualizationhowto.com/2026/09/5-home-lab-projects-to-try-this-weekend-september-25-2026/)
 - [I Wiped My Proxmox Host to See If This Backup Tool Could Bring It Back](https://www.virtualizationhowto.com/2026/09/i-wiped-my-proxmox-host-to-see-if-this-backup-tool-could-bring-it-back/)
-- [Portainer 3.0 Changes Direction. What Does It Mean for Docker Home Labs?](https://www.virtualizationhowto.com/2026/09/portainer-3-0-changes-direction-what-does-it-mean-for-docker-home-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
