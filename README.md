@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Home Lab Projects to Try This Weekend: October 2, 2026](https://www.virtualizationhowto.com/2026/10/6-home-lab-projects-to-try-this-weekend-october-2-2026/)
 - [7 Linux Commands Most People Discover Too Late in Their Home Lab](https://www.virtualizationhowto.com/2026/10/7-linux-commands-most-people-discover-too-late-in-their-home-lab/)
 - [Your Home Lab VLANs May Not Be Isolated Without This Firewall Configuration](https://www.virtualizationhowto.com/2026/09/your-home-lab-vlans-may-not-be-isolated-without-this-firewall-configuration/)
 - [I Tried This New Proxmox Dashboard, and the Self-Service Features Got My Attention](https://www.virtualizationhowto.com/2026/09/i-tried-this-new-proxmox-dashboard-and-the-self-service-features-got-my-attention/)
 - [I Put TrueNAS on a Grafana Dashboard. Then It Showed 12.7 PB of ARC.](https://www.virtualizationhowto.com/2026/09/i-put-truenas-on-a-grafana-dashboard-then-it-showed-12-7-pb-of-arc/)
-- [I Built My Ultimate TrueNAS Storage Setup for Proxmox](https://www.virtualizationhowto.com/2026/09/i-built-my-ultimate-truenas-storage-setup-for-proxmox/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
