@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Proxmox Restore Portal Helps You Find the File You Actually Need](https://www.virtualizationhowto.com/2026/10/this-proxmox-restore-portal-helps-you-find-the-file-you-actually-need/)
 - [7 ZFS Things I Wish I’d Known Before Using It on Proxmox](https://www.virtualizationhowto.com/2026/10/7-zfs-things-i-wish-id-known-before-using-it-on-proxmox/)
 - [Microsoft Just Gave WSL Its Own Container Engine. Do You Still Need Docker Desktop?](https://www.virtualizationhowto.com/2026/10/microsoft-just-gave-wsl-its-own-container-engine-do-you-still-need-docker-desktop/)
 - [6 Home Lab Projects to Try This Weekend: October 2, 2026](https://www.virtualizationhowto.com/2026/10/6-home-lab-projects-to-try-this-weekend-october-2-2026/)
 - [7 Linux Commands Most People Discover Too Late in Their Home Lab](https://www.virtualizationhowto.com/2026/10/7-linux-commands-most-people-discover-too-late-in-their-home-lab/)
-- [Your Home Lab VLANs May Not Be Isolated Without This Firewall Configuration](https://www.virtualizationhowto.com/2026/09/your-home-lab-vlans-may-not-be-isolated-without-this-firewall-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
