@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Give Your AI Agents Direct Access to Your Home Lab. Do This Instead.](https://www.virtualizationhowto.com/2026/10/dont-give-your-ai-agents-direct-access-to-your-home-lab-do-this-instead/)
 - [5 Home Lab Projects to Try This Weekend: October 16, 2026](https://www.virtualizationhowto.com/2026/10/5-home-lab-projects-to-try-this-weekend-october-16-2026/)
 - [Let’s Encrypt Is Shortening Certificate Lifetimes. Is Your Home Lab Ready?](https://www.virtualizationhowto.com/2026/10/lets-encrypt-is-shortening-certificate-lifetimes-is-your-home-lab-ready/)
 - [UniFi Network 11 Is Here: I Migrated My Home Lab to the New UniFi OS Server](https://www.virtualizationhowto.com/2026/10/unifi-network-11-is-here-i-migrated-my-home-lab-to-the-new-unifi-os-server/)
 - [I’m Using My Hermes AI Agent to Build My Home Lab Inventory in NetBox](https://www.virtualizationhowto.com/2026/10/im-using-my-hermes-ai-agent-to-build-my-home-lab-inventory-in-netbox/)
-- [TrueNAS 27 RC1 Is Here: 5 Changes That Matter for Home Labs](https://www.virtualizationhowto.com/2026/10/truenas-27-rc1-is-here-5-changes-that-matter-for-home-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
