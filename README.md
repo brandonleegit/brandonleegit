@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Home Lab Projects to Try This Weekend: October 23, 2026](https://www.virtualizationhowto.com/2026/10/5-home-lab-projects-to-try-this-weekend-october-23-2026/)
 - [Your First Proxmox Server Can Do More Than You Think](https://www.virtualizationhowto.com/2026/10/your-first-proxmox-server-can-do-more-than-you-think/)
 - [Do You Really Need Proxmox If You Only Run Docker?](https://www.virtualizationhowto.com/2026/10/do-you-really-need-proxmox-if-you-only-run-docker/)
 - [7 Things You Don’t Need to Run a Great Proxmox Home Lab](https://www.virtualizationhowto.com/2026/10/7-things-you-dont-need-to-run-a-great-proxmox-home-lab/)
 - [I Tried Pocket ID to Simplify Home Lab Logins. Here’s What I Found](https://www.virtualizationhowto.com/2026/10/i-tried-pocket-id-to-simplify-home-lab-logins-heres-what-i-found/)
-- [Don’t Give Your AI Agents Direct Access to Your Home Lab. Do This Instead.](https://www.virtualizationhowto.com/2026/10/dont-give-your-ai-agents-direct-access-to-your-home-lab-do-this-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
