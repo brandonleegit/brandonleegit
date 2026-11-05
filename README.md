@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox Has a New Shared Storage Option. What Does It Mean for Home Labs in 2026?](https://www.virtualizationhowto.com/2026/11/proxmox-has-a-new-shared-storage-option-what-does-it-mean-for-home-labs-in-2026/)
 - [This Free Kubernetes Tool Could Replace Lens in Your Home Lab](https://www.virtualizationhowto.com/2026/11/this-free-kubernetes-tool-could-replace-lens-in-your-home-lab/)
 - [Simple Tweaks to Help Your Proxmox SSDs Last Longer](https://www.virtualizationhowto.com/2026/11/simple-tweaks-to-help-your-proxmox-ssds-last-longer/)
 - [These New Linux Security Flaws Made Me Check My Home Lab](https://www.virtualizationhowto.com/2026/10/these-new-linux-security-flaws-made-me-check-my-home-lab/)
 - [5 Home Lab Projects to Try This Weekend: October 30, 2026](https://www.virtualizationhowto.com/2026/10/5-home-lab-projects-to-try-this-weekend-october-30-2026/)
-- [7 Tools My Home Lab Depends On in Late 2026](https://www.virtualizationhowto.com/2026/10/7-tools-my-home-lab-depends-on-in-late-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
