@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Self-Hosting Dying in Late 2026? Here’s What I Seeing for Home Labs](https://www.virtualizationhowto.com/2026/11/is-self-hosting-dying-in-late-2026-heres-what-i-seeing-for-home-labs/)
 - [VMware Has Another Problem: Pure Storage Just Made Its Proxmox Support Official](https://www.virtualizationhowto.com/2026/11/vmware-has-another-problem-pure-storage-just-made-its-proxmox-support-official/)
 - [5 Home Lab Projects to Try This Weekend: November 6, 2026](https://www.virtualizationhowto.com/2026/11/5-home-lab-projects-to-try-this-weekend-november-6-2026/)
 - [AI Crawlers Are Hammering Your Self-Hosted Servers. Here’s What I Found.](https://www.virtualizationhowto.com/2026/11/ai-crawlers-are-hammering-your-self-hosted-servers-heres-what-i-found/)
 - [Proxmox Has a New Shared Storage Option. What Does It Mean for Home Labs in 2026?](https://www.virtualizationhowto.com/2026/11/proxmox-has-a-new-shared-storage-option-what-does-it-mean-for-home-labs-in-2026/)
-- [This Free Kubernetes Tool Could Replace Lens in Your Home Lab](https://www.virtualizationhowto.com/2026/11/this-free-kubernetes-tool-could-replace-lens-in-your-home-lab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
