@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Virtualization Battle Is Bigger Than VMware vs. Proxmox](https://www.virtualizationhowto.com/2026/11/the-next-virtualization-battle-is-bigger-than-vmware-vs-proxmox/)
 - [Do You Even Need Proxmox in Your Home Lab Anymore?](https://www.virtualizationhowto.com/2026/11/do-you-even-need-proxmox-in-your-home-lab-anymore/)
 - [Broadcom Wants VMware Customers Back. There’s Just One Problem.](https://www.virtualizationhowto.com/2026/11/broadcom-wants-vmware-customers-back-theres-just-one-problem/)
 - [Is Self-Hosting Dying in Late 2026? Here’s What I Seeing for Home Labs](https://www.virtualizationhowto.com/2026/11/is-self-hosting-dying-in-late-2026-heres-what-i-seeing-for-home-labs/)
 - [VMware Has Another Problem: Pure Storage Just Made Its Proxmox Support Official](https://www.virtualizationhowto.com/2026/11/vmware-has-another-problem-pure-storage-just-made-its-proxmox-support-official/)
-- [5 Home Lab Projects to Try This Weekend: November 6, 2026](https://www.virtualizationhowto.com/2026/11/5-home-lab-projects-to-try-this-weekend-november-6-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
