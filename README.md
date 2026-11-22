@@ -44,11 +44,11 @@ I'm passionate about DevOps, Infrastructure as Code, and Cloud Architecture. Wit
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Is Taking Aim at VMware’s NVMe Memory Tiering](https://www.virtualizationhowto.com/2026/11/linux-is-taking-aim-at-vmwares-nvme-memory-tiering/)
 - [5 Home Lab Projects to Try This Weekend: November 20, 2026](https://www.virtualizationhowto.com/2026/11/5-home-lab-projects-to-try-this-weekend-november-20-2026/)
 - [Proxmox Is Moving Away From Ubuntu for Its New Kernel. Here’s Why.](https://www.virtualizationhowto.com/2026/11/proxmox-is-moving-away-from-ubuntu-for-its-new-kernel-heres-why/)
 - [Hackers Are Now Targeting Proxmox. Here’s How to Protect Yourself.](https://www.virtualizationhowto.com/2026/11/hackers-are-now-targeting-proxmox-heres-how-to-protect-yourself/)
 - [Your Proxmox Home Lab Has Another Free Storage Option Besides Ceph](https://www.virtualizationhowto.com/2026/11/your-proxmox-home-lab-has-another-free-storage-option-besides-ceph/)
-- [This Free Tool Wants to Make Leaving VMware Easier](https://www.virtualizationhowto.com/2026/11/this-free-tool-wants-to-make-leaving-vmware-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Current Projects
